@@ -395,13 +395,4 @@ Inspired by open‑source communities everywhere and powered by the **GeeksforGe
 
 ---
 
-### Replace‑Me Links (maintainers)
-
-* Submission form: `https://forms.gle/REPLACE`
-* Discord invite: `https://discord.gg/REPLACE`
-* GitHub Org: `https://github.com/REPLACE-ORG`
-* Banner image: `https://…/banner.png`
-
----
-
 > Pro‑tip: Pin this repository to your GitHub Org and add the current Forge project(s) as submodules or link them prominently in the README.
