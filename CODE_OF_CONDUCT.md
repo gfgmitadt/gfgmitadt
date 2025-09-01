@@ -21,7 +21,7 @@ We pledge to make participation in our community a **harassment-free experience 
 
 ## 👩‍⚖️ Enforcement
 
-* Reports of violations can be made via **Discord DM to Core Team** or email at **[gfgchapter@example.com](mailto:gfgchapter@example.com)**.
+* Reports of violations can be made via **Discord DM to Core Team** or email at **[geekforgeekmitadt@gmail.com](mailto:geekforgeekmitadt@gmail.com)**.
 * All complaints will be reviewed and investigated fairly.
 * The core team may remove or block participants engaging in unacceptable behavior.
 
